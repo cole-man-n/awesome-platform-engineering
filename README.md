@@ -130,6 +130,7 @@ A curated list of tools and resources for Platform Engineering.
 - [Topaz- Combining the best of OPA and Zanzibar](https://github.com/aserto-dev/topaz)
 - [Permify- open-source authorization service](https://github.com/Permify/permify)
 - [Permit.io - Authorization as a service with a no-code UI](https://permit.io/)
+- [hoop.dev - Open-source layer 7 access gateway with JIT/Command-level access, data masking, in-session deterministic guardrails, and audit trails for DB, K8s, and Seervices](https://github.com/hoophq/hoop)
 
 
 ## YouTube channels and Videos
